@@ -1,4 +1,4 @@
-#project link: https://hr1frontend.netlify.app/
+#project hosted link: https://hr1frontend.netlify.app/
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
